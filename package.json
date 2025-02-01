@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "sass": "^1.83.4"
+  },
+  "name": "kubb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch styles.scss css/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
